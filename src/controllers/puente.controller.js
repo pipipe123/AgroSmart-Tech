@@ -1,0 +1,3 @@
+export {sensor, createSensor, readSensor, updateSensor, deleteSensor} from '../controllers/sensor.controller.js'
+export {Pez, createPez, readPez, updatePez, deletePez} from '../controllers/pez.controller.js'
+export {Invernadero, createInvernadero, readInvernadero, updateInvernadero, deleteInvernadero} from '../controllers/invernadero.controller.js'
